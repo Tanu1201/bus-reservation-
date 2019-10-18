@@ -1,5 +1,5 @@
 # bus-reservation
-#include <conio.h>
+#include <float.h>
 
 #include <stdio.h>
 
