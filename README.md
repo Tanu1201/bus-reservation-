@@ -1,4 +1,4 @@
-# bus-reservation
+# bus-reserved
 #include <float.h>
 
 #include <stdio.h>
